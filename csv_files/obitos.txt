@@ -1,0 +1,13 @@
+ Morbidade Hospitalar do SUS - por local de interna��o - Brasil
+�bitos por Ano/m�s processamento e Regi�o
+Lista Morb  CID-10: Neoplasia maligna do c�lon, Neopl malig jun��o retossigm reto �nus canal anal
+Per�odo:Jan/2012-Set/2024
+
+
+
+
+ Fonte: Minist�rio da Sa�de - Sistema de Informa��es Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos �ltimos seis meses, sujeitos a atualiza��o.
+ 
