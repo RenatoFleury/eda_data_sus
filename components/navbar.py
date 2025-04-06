@@ -11,7 +11,9 @@ def NavBar():
         st.page_link('pages/sangue_oculto_page.py', label='Sangue Oculto')
         st.page_link('pages/ccr_internacoes_page.py', label='Internações')
         
+        st.divider()
+        st.page_link('pages/tables_page.py', label='Tabelas')
         
         st.divider()
-        st.page_link('pages/csv_files_page.py', label='CSV Files')
+        st.page_link('pages/csv_files_page.py', label='Arquivos CSV')
         
