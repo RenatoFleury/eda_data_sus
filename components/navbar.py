@@ -10,6 +10,8 @@ def NavBar():
         st.page_link('pages/ccr_diagnosticos_page.py', label='CCR Diagnosticos')
         st.page_link('pages/sangue_oculto_page.py', label='Sangue Oculto')
         st.page_link('pages/ccr_internacoes_page.py', label='Internações')
+        st.page_link('pages/obitos_page.py', label='Óbitos')
+        st.page_link('pages/colonoscopia_page.py', label='Colonoscopia')
         
         st.divider()
         st.page_link('pages/tables_page.py', label='Tabelas')

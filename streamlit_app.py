@@ -1,6 +1,8 @@
 import streamlit as st
 from components.navbar import NavBar
 from pages.ccr_diagnosticos_page import ccr_diagnosticos_first_graph
+from pages.colonoscopia_page import coloscopia_first_graph
+from pages.obitos_page import obitos_first_graph
 from pages.sangue_oculto_page import sangue_oculto_first_graph
 
 def main():
@@ -16,6 +18,8 @@ def main():
     st.subheader('Overview dos dados analisados')
     ccr_diagnosticos_first_graph()
     sangue_oculto_first_graph()
+    obitos_first_graph()
+    coloscopia_first_graph()
     
 
 if __name__ == '__main__':
